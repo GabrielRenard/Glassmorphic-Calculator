@@ -146,8 +146,3 @@ function clickOperationBtn(key) {
 function clickEqualEl() {
     equalEl.click();
 };
-
-VanillaTilt.init(document.querySelector(".container"), {
-    max: 25,
-    speed: 400
-});
